@@ -37,6 +37,8 @@ The dataset was compiled using valuable information from [WhoSampled](http://www
 
 ## References
 
-[1] Van Balen, J. (2011). Automatic Recognition of Samples in Musical Audio. Master Thesis, Universitat Pompeu Fabra, Barcelona, Spain.
+Please cite one of the following when using this dataset.
 
-[2] Van Balen, J., Serrà, J., & Haro, M. (2012). Automatic Identification of Samples in Hip Hop Music. In Int. Symp. on Computer Music Modeling and Retrieval (CMMR). London, United Kingdom.
+[1] Van Balen, J. (2011). [Automatic Recognition of Samples in Musical Audio. Master Thesis](http://mtg.upf.edu/node/2342), Universitat Pompeu Fabra, Barcelona, Spain.
+
+[2] Van Balen, J., Serrà, J., & Haro, M. (2012). [Automatic Identification of Samples in Hip Hop Music](http://mtg.upf.edu/node/2468). In Int. Symp. on Computer Music Modeling and Retrieval (CMMR). London, United Kingdom.
